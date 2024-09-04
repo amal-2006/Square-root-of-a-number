@@ -23,6 +23,7 @@ Developed by: AMALJOSH MAADHAV J
 RegisterNumber:  212223230012
 
 
+
 def newton_method(number,number_iters=100):
     a=float(number)
     for i in range(number_iters):
@@ -30,6 +31,7 @@ def newton_method(number,number_iters=100):
     return number
 a=int(input())
 print("Square root of the number:",newton_method(a))
+
 
 
 
