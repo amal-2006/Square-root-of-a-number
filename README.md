@@ -38,6 +38,7 @@ print("Square root of the number:",newton_method(a))
 
 
 
+
 ```
 
 ## Output:
